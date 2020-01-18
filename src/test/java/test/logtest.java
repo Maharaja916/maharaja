@@ -13,7 +13,7 @@ public class logtest {
 	logobj lg;
 
 public logtest () {
-	lg=new logobj();
+	lg=new logobj12();
 	bp=new basepage();
 
 	}
