@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import objects.basepage;
 import objects.logobj;
 
-public class logtest12 {
+public class logtest4678 {
 	basepage bp;
 	logobj lg;
 
