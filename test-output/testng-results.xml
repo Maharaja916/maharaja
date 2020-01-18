@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="522" started-at="2020-01-08T13:56:09Z" finished-at="2020-01-08T13:56:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="522" started-at="2020-01-08T13:56:09Z" finished-at="2020-01-08T13:56:09Z">
+      <class name="test.logtest">
+        <test-method status="PASS" signature="verifydress()[pri:0, instance:test.logtest@5ab956d7]" name="verifydress" duration-ms="335" started-at="2020-01-08T13:56:09Z" finished-at="2020-01-08T13:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydress -->
+        <test-method status="PASS" signature="verifyshirts()[pri:0, instance:test.logtest@5ab956d7]" name="verifyshirts" duration-ms="57" started-at="2020-01-08T13:56:09Z" finished-at="2020-01-08T13:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyshirts -->
+        <test-method status="PASS" signature="verifywomen()[pri:0, instance:test.logtest@5ab956d7]" name="verifywomen" duration-ms="60" started-at="2020-01-08T13:56:09Z" finished-at="2020-01-08T13:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifywomen -->
+      </class> <!-- test.logtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
